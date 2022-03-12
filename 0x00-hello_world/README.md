@@ -1,1 +1,1 @@
-Generates assembly of a C code and saves it in output file
+Compiles a C file and then creates an executable
