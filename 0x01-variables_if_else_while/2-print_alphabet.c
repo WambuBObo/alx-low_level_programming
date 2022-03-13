@@ -4,7 +4,7 @@
  * main -Entry poin
  * Description: Prints all alphabets in lower case
  *
- * Rreturn: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
