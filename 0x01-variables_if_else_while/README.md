@@ -1,1 +1,1 @@
-Print all leters of the alphabet in lowercase except from 'q'and 'e'
+Print all numbers of base 10 including 0
