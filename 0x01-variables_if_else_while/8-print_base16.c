@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description:Print out all numbers of base 16 
+ * Description: Print out all numbers of base 16
  * in lowercase, use putchar
  *
  * Return: Always 0 (SUccess)
