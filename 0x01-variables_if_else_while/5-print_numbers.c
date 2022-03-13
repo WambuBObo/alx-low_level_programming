@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  * Description: Print out all digits of base 10
