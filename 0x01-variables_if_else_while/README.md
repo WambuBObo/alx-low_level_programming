@@ -1,1 +1,1 @@
-Print all numbers of base 16 in lowercase
+Print all numbers under 10 with a ,
