@@ -1,1 +1,1 @@
-Gets a random number and checks its last digit, and compares it with 5
+Print all leters of the alphabet in lowercase
