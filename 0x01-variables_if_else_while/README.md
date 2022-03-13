@@ -1,1 +1,1 @@
-Assign random number to vatiable n
+Gets a random number and checks its last digit, and compares it with 5
