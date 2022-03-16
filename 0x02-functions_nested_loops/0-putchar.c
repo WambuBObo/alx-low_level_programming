@@ -1,5 +1,5 @@
-#include <unistd.h>
-#include <main.h>
+#include "stdio.h"
+#include "main.h"
 
 /**
  * main - Entry point
@@ -10,15 +10,14 @@
 
 int main(void)
 {
-	char text[10] = "_putchar";
+	char text[9] = "putchar";
 	int i = 0;
 
-	while (i < 9)
+	for (i = 0; i < 8; i++)
 	{
-		_putchar(text[i]);
-		i++;
+		putchar(text[i]);
 	}
-	-putchar('\n');
+	putchar('\n');
 
 	return (0);
 }
