@@ -4,7 +4,7 @@
  * @c: int type number
  * Return: 1 if uppercase, else 0
  */
-int -issuper(int c)
+int _issuper(int c)
 {
 	if ((c >= 'A') && (c <= 'Z'))
 		
