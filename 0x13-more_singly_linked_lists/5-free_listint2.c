@@ -1,4 +1,4 @@
-#include "lists.h"
+include "lists.h"
 #include <stdlib.h>
 
 /**
@@ -20,5 +20,3 @@ void free_listint2(listint_t **head)
 		*head = next;
 	}
 }
-© 2022 GitHub, Inc.
-Ter
