@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN.H
+#define MAIN.H
 
 #define BYTE_LENGHT 8
 
