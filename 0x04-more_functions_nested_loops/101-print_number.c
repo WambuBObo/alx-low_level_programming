@@ -2,7 +2,6 @@
 /**
  * print_number - prints an integer
  *
- *Owned by Bwave ICT/ Bright Daniel
  */
 void print_number(int n)
 {
